@@ -1,0 +1,12 @@
+numpy==1.21.5
+torch==1.10.1
+spacy==3.2.1
+transformers==4.9.1
+sentencepiece==0.1.96
+tqdm==4.48.2
+scikit-learn==1.0.2
+pytest==6.0.1
+sentence-transformers==2.1.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz
+bert-extractive-summarizer==0.9.0
+jupyter==1.0.0
